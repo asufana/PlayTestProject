@@ -1,0 +1,12 @@
+.classpath
+.settings
+.project
+dist/
+eclipse/
+logs/
+modules/*/commands.pyc
+test-result/
+tmp/
+
+tempfile/
+/bin

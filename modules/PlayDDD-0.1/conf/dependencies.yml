@@ -1,0 +1,8 @@
+self: play -> PlayDDD 0.1
+
+require:
+    - play -> play 1.2.5
+    
+    # JodaTime for Hibernate
+    - joda-time -> joda-time-hibernate 1.3
+    
